@@ -1,0 +1,176 @@
+#!/bin/bash
+#by  EnYona
+
+echo "\033[0;32mScript DDOS Via Termux"
+echo "\033[1;36m"
+read -p 'MASUKAN NO TARGET :' pilih;
+sleep 2
+        echo "\033[0;37m"
+        echo "( 1 ) Love Dark"
+        echo "( 2 ) exit"
+read -p "Masukan Pilihan Anda :" pilih;
+if [ $pilih = "1" ]
+then
+        echo "\033[1;36m"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "GAGAL"
+        sleep 1
+        echo "GAGAL"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "GAGAL"
+        sleep 1
+        echo "GAGAL"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "GAGAL"
+        sleep 1
+        echo "GAGAL"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "GAGAL"
+        sleep 1
+        echo "GAGAL"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "GAGAL"
+        sleep 1
+        echo "GAGAL"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "GAGAL"
+        sleep 1
+        echo "GAGAL"
+        sleep 1
+        echo "SUKSES"
+        sleep 1
+        echo "SUKSES"
+        
+elif [ $pilih = "2" ]
+then
+        echo "\033[1;37m"
+        echo "Terimakasih Sudah Menggunakan Script Ini:)"
+fi
